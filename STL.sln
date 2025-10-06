@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SequenceConteinrs", "Sequen
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AsoceativConteiners", "AsoceativConteiners\AsoceativConteiners.vcxproj", "{1AAF3C9E-48F1-4172-B45A-0D8815DB9A3E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Police", "Police\Police.vcxproj", "{C60B11AB-582C-4309-8402-111E27461D3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{1AAF3C9E-48F1-4172-B45A-0D8815DB9A3E}.Release|x64.Build.0 = Release|x64
 		{1AAF3C9E-48F1-4172-B45A-0D8815DB9A3E}.Release|x86.ActiveCfg = Release|Win32
 		{1AAF3C9E-48F1-4172-B45A-0D8815DB9A3E}.Release|x86.Build.0 = Release|Win32
+		{C60B11AB-582C-4309-8402-111E27461D3C}.Debug|x64.ActiveCfg = Debug|x64
+		{C60B11AB-582C-4309-8402-111E27461D3C}.Debug|x64.Build.0 = Debug|x64
+		{C60B11AB-582C-4309-8402-111E27461D3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C60B11AB-582C-4309-8402-111E27461D3C}.Debug|x86.Build.0 = Debug|Win32
+		{C60B11AB-582C-4309-8402-111E27461D3C}.Release|x64.ActiveCfg = Release|x64
+		{C60B11AB-582C-4309-8402-111E27461D3C}.Release|x64.Build.0 = Release|x64
+		{C60B11AB-582C-4309-8402-111E27461D3C}.Release|x86.ActiveCfg = Release|Win32
+		{C60B11AB-582C-4309-8402-111E27461D3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
